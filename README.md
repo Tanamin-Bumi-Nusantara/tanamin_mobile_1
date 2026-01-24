@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tanamin_mobile_1
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# tanamin_mobile_1
+>>>>>>> 435bc663d901fe3222a7fa38bcc7b7be21e9bf95
