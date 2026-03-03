@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Kopi Arabika",
+    "scientific_name": "Coffea arabica",
+    "description": "Kopi Arabika adalah jenis kopi yang paling populer di dunia, dikenal dengan rasanya yang halus dan kompleks.",
+    "image": "/assets/images/trees/kopi-arabika.jpg",
+    "planting_season": "Awal musim hujan",
+    "harvest_time": "8-9 bulan setelah berbunga"
+  },
+  {
+    "id": 2,
+    "name": "Mahoni",
+    "scientific_name": "Swietenia mahagoni",
+    "description": "Pohon kayu keras yang tumbuh cepat, sering digunakan untuk reboisasi dan perabotan.",
+    "image": "/assets/images/trees/mahoni.jpg",
+    "planting_season": "Musim hujan",
+    "harvest_time": "15-20 tahun untuk kayu"
+  },
+  {
+    "id": 3,
+    "name": "Trembesi",
+    "scientific_name": "Samanea saman",
+    "description": "Pohon peneduh besar yang efektif menyerap CO2 dan polutan udara.",
+    "image": "/assets/images/trees/trembesi.jpg",
+    "planting_season": "Sepanjang tahun",
+    "harvest_time": "Tidak dipanen untuk kayu (konservasi)"
+  },
+  {
+    "id": 4,
+    "name": "Mangrove Rhizophora",
+    "scientific_name": "Rhizophora mucronata",
+    "description": "Tanaman bakau yang melindungi pantai dari abrasi dan menjadi habitat biota laut.",
+    "image": "/assets/images/trees/mangrove.jpg",
+    "planting_season": "Sepanjang tahun (pasang surut stabil)",
+    "harvest_time": "-"
+  },
+  {
+    "id": 5,
+    "name": "Ulin",
+    "scientific_name": "Eusideroxylon zwageri",
+    "description": "Kayu besi khas Kalimantan yang sangat kuat dan tahan lama, namun tumbuh lambat.",
+    "image": "/assets/images/trees/ulin.jpg",
+    "planting_season": "Musim hujan",
+    "harvest_time": "50+ tahun"
+  }
+]

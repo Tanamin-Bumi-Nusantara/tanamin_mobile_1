@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "title": "Penanaman 300 Bibit Kopi bersama Tanamin Bumi Nusantara",
+    "slug": "penanaman-300-bibit-kopi-tanamin-bumi-nusantara",
+    "partner_name": "Tanamin Bumi Nusantara",
+    "partner_slug": "tanamin-bumi-nusantara",
+    "partner_logo": "/assets/images/default/campaign.png",
+    "partner_verified": true,
+    "total_volunteer": 30,
+    "type_of_trees": "Kopi Arabika",
+    "target_trees": 300,
+    "number_of_trees": 300,
+    "price_per_tree": 25000,
+    "closing_date": "20 Feb 2025",
+    "date_of_event": "23 Feb 2025",
+    "image": "/assets/images/default/campaign.png",
+    "description": "Penanaman 300 Bibit Kopi bersama Tanamin Bumi Nusantara merupakan salah satu inisiatif lingkungan yang menggabungkan aspek konservasi, pemberdayaan masyarakat, dan pembangunan ekonomi berkelanjutan. Program ini tidak hanya menargetkan peningkatan tutupan hijau melalui penanaman kopi, tetapi juga berfokus pada penguatan kapasitas masyarakat lokal agar mampu memaksimalkan potensi lahan secara produktif dan berkelanjutan.\n\nKalimantan Timur selama beberapa dekade terakhir menghadapi tantangan serius yang berkaitan dengan degradasi lingkungan, mulai dari berkurangnya hutan akibat aktivitas industri hingga perubahan penggunaan lahan secara masif. Melalui kegiatan ini, penanaman 300 bibit kopi dirancang sebagai upaya reforestasi yang bukan hanya memulihkan ekosistem, tetapi juga menghadirkan peluang ekonomi yang dapat dinikmati penduduk setempat. Kopi dipilih karena memiliki nilai ekologis yang baik serta potensial menjadi komoditas unggulan daerah.\n\nPEPELINGASIH Kalimantan Timur berperan penting dalam pelaksanaan kegiatan ini, terutama dalam memastikan metode penanaman dilakukan dengan tepat serta melibatkan masyarakat sebagai aktor utama. Pendekatan partisipatif ini diyakini dapat menghasilkan dampak yang lebih berkelanjutan, karena masyarakat memiliki rasa memiliki terhadap lahan dan tanaman yang mereka rawat. Dengan demikian, keberhasilan program tidak hanya dihitung dari jumlah pohon yang tertanam, tetapi dari keterlibatan dan peningkatan kapasitas komunitas.\n\nSecara ekologis, tanaman kopi memberikan banyak manfaat bagi keberlanjutan lingkungan. Sistem perakarannya membantu mencegah erosi, memperbaiki struktur tanah, dan meningkatkan kemampuan lahan dalam menyerap air. Ketika dikombinasikan dengan tanaman penaung, kopi juga menciptakan sistem agroforestry yang mendukung biodiversitas lokal. Lingkungan menjadi lebih stabil karena interaksi antara berbagai jenis tanaman dapat menciptakan ekosistem yang saling melengkapi.\n\nDari sisi sosial ekonomi, penanaman kopi menghadirkan peluang baru bagi petani dan masyarakat sekitar. Kopi merupakan komoditas yang memiliki nilai ekonomi tinggi dan permintaan pasar yang stabil, baik di tingkat lokal maupun global. Dengan pendampingan yang tepat, masyarakat dapat mempelajari teknik budidaya kopi yang baik, seperti cara pemangkasan, pengendalian hama terpadu, dan pengelolaan pascapanen. Keterampilan tersebut menjadi modal penting untuk meningkatkan pendapatan keluarga di masa depan.\n\nProgram ini juga menjadi sarana edukasi lingkungan, terutama bagi generasi muda yang terlibat sebagai relawan dalam kegiatan penanaman. Melalui pengalaman langsung di lapangan, mereka dapat memahami pentingnya menjaga kelestarian alam serta peran pohon dalam menjaga keseimbangan ekosistem. Pelibatan generasi muda adalah langkah strategis untuk memastikan keberlanjutan upaya konservasi dalam jangka panjang.\n\nPemeliharaan pasca-penanaman juga menjadi bagian penting dari program ini. Penyiraman rutin, penyiangan, dan pengawasan terhadap hama dilakukan bersama-sama oleh masyarakat dan tim pendamping. Dengan adanya pendampingan berkelanjutan, tingkat keberhasilan tumbuh diharapkan tinggi dan memberikan hasil yang signifikan baik dari segi lingkungan maupun ekonomi.\n\nSecara keseluruhan, Penanaman 300 Bibit Kopi bersama PEPELINGASIH Kalimantan Timur adalah program yang menyatukan tujuan lingkungan, sosial, dan ekonomi. Kegiatan ini tidak hanya memberikan manfaat ekologis, tetapi juga membuka peluang bagi masyarakat untuk mengembangkan keterampilan baru dan menciptakan sumber pendapatan yang berkelanjutan. Kolaborasi yang kuat antara komunitas lokal, pemerintah, dan lembaga lingkungan menjadi kunci keberhasilan program ini, sekaligus menjadi contoh praktik baik reforestasi berbasis pemberdayaan masyarakat di Indonesia.",
+    "location": {
+      "province": "Kalimantan Timur",
+      "regency": "Balikpapan",
+      "district": "Balikpapan Utara",
+      "village": "Karang Joang",
+      "koordinat": [-1.077356967552832, 116.893984209072],
+      "lokasi_deskripsi": "Backwood Farm merupakan kawasan pertanian terpadu yang dikelilingi oleh bentang alam hijau dan lahan produktif. Lokasi ini dikenal sebagai area budidaya yang memanfaatkan kombinasi lahan terbuka, tanaman perkebunan, serta ruang konservasi untuk menjaga kualitas lingkungan sekitar. Backwood Farm memiliki kondisi tanah yang relatif subur, dapat mendukung berbagai jenis tanaman, dan cocok digunakan sebagai area penanaman kopi maupun program reforestasi skala kecil hingga menengah.\n\nSecara geografis, lingkungan di sekitar Backwood Farm memiliki kualitas udara yang baik, tingkat pencahayaan memadai, serta akses air yang cukup untuk kebutuhan pemeliharaan tanaman. Area ini juga berada jauh dari pusat keramaian sehingga menghadirkan suasana tenang dan alami, cocok untuk kegiatan penanaman komunitas, edukasi lingkungan, dan pembinaan kelompok tani lokal.\n\nBackwood Farm sering dijadikan lokasi kegiatan kolaboratif yang melibatkan masyarakat, relawan lingkungan, hingga organisasi sosial yang peduli terhadap keberlanjutan alam. Dengan karakteristik lahannya yang stabil serta dukungan ekosistem di sekitarnya, kawasan ini menjadi pilihan strategis untuk mendukung program peningkatan tutupan hijau dan pemberdayaan masyarakat berbasis pertanian berkelanjutan.",
+      "polygon": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [116.8935416873018, -1.076672375114541],
+            [116.8931198729784, -1.077239064707716],
+            [116.8939608995433, -1.077596616007988],
+            [116.8942203157401, -1.077169770577028],
+            [116.8935416873018, -1.076672375114541]
+          ]
+        ]
+      }
+    },
+    "photos": [
+      {
+        "id": 1,
+        "src": "/assets/images/landing/dummy/image.jpg",
+        "alt": "Penanaman kopi - Dokumentasi 1"
+      },
+      {
+        "id": 2,
+        "src": "/assets/images/landing/dummy/image-2.jpg",
+        "alt": "Penanaman kopi - Dokumentasi 2"
+      },
+      {
+        "id": 3,
+        "src": "/assets/images/landing/dummy/image-3.jpg",
+        "alt": "Penanaman kopi - Dokumentasi 3"
+      },
+      {
+        "id": 4,
+        "src": "/assets/images/landing/dummy/image-4.JPG",
+        "alt": "Penanaman kopi - Dokumentasi 4"
+      }
+    ],
+    "donations": [1],
+    "status": "open",
+    "sdgs": [8, 11, 12, 13, 15]
+  },
+  {
+    "id": 2,
+    "title": "Penanaman Mangrove di Markas Komando Polairud",
+    "slug": "penanaman-mangrove-mako-polairud",
+    "partner_name": "HMSI ITK",
+    "partner_logo": "/assets/images/default/campaign.png",
+    "partner_verified": true,
+    "total_volunter": 50,
+    "type_of_trees": "Mangrove",
+    "target_trees": 60,
+    "number_of_trees": 60,
+    "price_per_tree": 15000,
+    "closing_date": "20 Feb 2025",
+    "date_of_event": "23 Feb 2025",
+    "image": "/assets/images/default/campaign.png",
+    "description": "Penanaman 300 Bibit Kopi bersama Tanamin Bumi Nusantara merupakan salah satu inisiatif lingkungan yang menggabungkan aspek konservasi, pemberdayaan masyarakat, dan pembangunan ekonomi berkelanjutan...",
+    "location": {
+      "province": "Kalimantan Timur",
+      "regency": "Balikpapan",
+      "district": "Balikpapan Utara",
+      "village": "Karang Joang",
+      "koordinat": [-1.215185141302739, 116.82980340751254],
+      "lokasi_deskripsi": "Backwood Farm merupakan kawasan pertanian terpadu...",
+      "polygon": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [116.8297632986432, -1.213700833128516],
+            [116.8307402340265, -1.213659970240966],
+            [116.8306817676383, -1.213340238211644],
+            [116.8305208642484, -1.213272301637409],
+            [116.8302183486544, -1.213287136304313],
+            [116.8301727521715, -1.21336147388168],
+            [116.8300321548855, -1.213366624200537],
+            [116.8297449799602, -1.213313571573172],
+            [116.8297632986432, -1.213700833128516]
+          ]
+        ]
+      }
+    },
+    "photos": [
+      {
+        "id": 1,
+        "src": "/assets/images/landing/dummy/image.jpg",
+        "alt": "Penanaman kopi - Dokumentasi 1"
+      },
+      {
+        "id": 2,
+        "src": "/assets/images/landing/dummy/image-2.jpg",
+        "alt": "Penanaman kopi - Dokumentasi 2"
+      },
+      {
+        "id": 3,
+        "src": "/assets/images/landing/dummy/image-3.jpg",
+        "alt": "Penanaman kopi - Dokumentasi 3"
+      },
+      {
+        "id": 4,
+        "src": "/assets/images/landing/dummy/image-4.JPG",
+        "alt": "Penanaman kopi - Dokumentasi 4"
+      }
+    ],
+    "donations": [1],
+    "status": "funded",
+    "sdgs": [8, 11, 12, 13, 15]
+  },
+  {
+    "id": 3,
+    "title": "Penanaman 300 Bibit Kopi bersama Tanamin Bumi Nusantara",
+    "slug": "penanaman-300-bibit-kopi-tanamin-bumi-nusantara",
+    "partner_name": "Tanamin Bumi Nusantara",
+    "partner_logo": "/assets/images/default/campaign.png",
+    "partner_verified": true,
+    "total_volunter": 30,
+    "type_of_trees": "Kopi Arabika",
+    "target_trees": 300,
+    "number_of_trees": 40,
+    "price_per_tree": 15000,
+    "closing_date": "17 Jan 2025",
+    "date_of_event": "23 Feb 2025",
+    "image": "/assets/images/default/campaign.png",
+    "description": "Penanaman 300 Bibit Kopi bersama Tanamin Bumi Nusantara merupakan salah satu inisiatif lingkungan...",
+    "location": {
+      "province": "Kalimantan Timur",
+      "regency": "Balikpapan",
+      "district": "Balikpapan Utara",
+      "village": "Karang Joang",
+      "koordinat": [-1.0858085459056832, 116.90020806541231],
+      "lokasi_deskripsi": "Backwood Farm merupakan kawasan pertanian terpadu...",
+      "polygon": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [116.89925806541231, -1.0850585459056832],
+            [116.90115806541231, -1.0850585459056832],
+            [116.90115806541231, -1.0865585459056832],
+            [116.89925806541231, -1.0865585459056832],
+            [116.89925806541231, -1.0850585459056832]
+          ]
+        ]
+      }
+    },
+    "photos": [
+      {
+        "id": 1,
+        "src": "/assets/images/landing/dummy/image.jpg",
+        "alt": "Penanaman kopi - Dokumentasi 1"
+      },
+      {
+        "id": 2,
+        "src": "/assets/images/landing/dummy/image-2.jpg",
+        "alt": "Penanaman kopi - Dokumentasi 2"
+      },
+      {
+        "id": 3,
+        "src": "/assets/images/landing/dummy/image-3.jpg",
+        "alt": "Penanaman kopi - Dokumentasi 3"
+      },
+      {
+        "id": 4,
+        "src": "/assets/images/landing/dummy/image-4.JPG",
+        "alt": "Penanaman kopi - Dokumentasi 4"
+      }
+    ],
+    "donations": [1],
+    "status": "funded",
+    "sdgs": [8, 11, 12, 13, 15]
+  },
+  {
+    "id": 4,
+    "title": "Restorasi Hutan Lindung Gunung Palung",
+    "slug": "restorasi-hutan-lindung-gunung-palung",
+    "partner_name": "Lembaga Alam Lestari Kayong",
+    "total_volunter": 35,
+    "type_of_trees": "Belian",
+    "target_trees": 800,
+    "number_of_trees": 800,
+    "price_per_tree": 22000,
+    "closing_date": "15 Jan 2026",
+    "date_of_event": "15 Jan 2026",
+    "image": "/assets/images/landing/dummy/image-3.jpg",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry...",
+    "location": {
+      "province": "Kalimantan Barat",
+      "regency": "Ketapang",
+      "district": "Sungai Laur",
+      "village": "Gunung Palung",
+      "koordinat": [-1.3167, 110.0],
+      "lokasi_deskripsi": "Kawasan Hutan Lindung Gunung Palung National Park"
+    },
+    "donations": [4],
+    "status": "funded"
+  }
+]

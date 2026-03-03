@@ -1,0 +1,19 @@
+{
+  "id": 1,
+  "name": "Tanamin Bumi Nusantara",
+  "type": "PT",
+  "slug": "tanamin-bumi-nusantara",
+  "logo": "/assets/images/logo/logo-bawah.png",
+  "description": "Tanamin Bumi Nusantara adalah perusahaan yang berfokus pada restorasi lingkungan dan rehabilitasi ekosistem di Kalimantan. Melalui platform digital Tanamin, perusahaan ini menyediakan sistem pendataan lokasi penanaman, pemantauan perkembangan pohon, kalkulator karbon, dan kebutuhan vegetasi. Tanamin Bumi Nusantara berkomitmen menghadirkan solusi inovatif untuk mengatasi abrasi pantai, deforestasi, dan perubahan iklim dengan prinsip transparansi, keberlanjutan, dan kolaborasi.",
+  "stats": {
+    "pohon": "10.340",
+    "kampanye": "18",
+    "lokasi": 25,
+    "lahan": "5,4 Ha",
+    "karbon": "2 Ton"
+  },
+  "lokasi": 25,
+  "lahan": "5,4 Ha",
+  "karbon": "2 Ton",
+  "link": "tanaminbumi.com"
+}

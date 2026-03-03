@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "title": "Penanaman Mangrove Pesisir Balikpapan",
+    "slug": "mangrove-pesisir-balikpapan",
+    "image": "/assets/images/campaigns/default.jpg",
+    "price_per_tree": 10000,
+    "number_of_trees": 320,
+    "target_trees": 1000,
+    "location": {
+      "regency": "Balikpapan"
+    },
+    "status": "open"
+  },
+  {
+    "id": 2,
+    "title": "Rehabilitasi Hutan Kota Samarinda",
+    "slug": "rehabilitasi-hutan-kota-samarinda",
+    "image": "/assets/images/campaigns/hutan-kota.jpg",
+    "price_per_tree": 15000,
+    "number_of_trees": 780,
+    "target_trees": 1200,
+    "location": {
+      "regency": "Samarinda"
+    },
+    "status": "open"
+  },
+  {
+    "id": 3,
+    "title": "Gerakan Hijau Pantai Penajam",
+    "slug": "gerakan-hijau-pantai-penajam",
+    "image": "/assets/images/campaigns/pantai.jpg",
+    "price_per_tree": 12000,
+    "number_of_trees": 500,
+    "target_trees": 500,
+    "location": {
+      "regency": "Penajam Paser Utara"
+    },
+    "status": "monitoring"
+  },
+  {
+    "id": 4,
+    "title": "Penghijauan Lahan Bekas Tambang Kutai",
+    "slug": "penghijauan-lahan-bekas-tambang-kutai",
+    "image": "/assets/images/campaigns/tambang.jpg",
+    "price_per_tree": 20000,
+    "number_of_trees": 150,
+    "target_trees": 800,
+    "location": {
+      "regency": "Kutai Kartanegara"
+    },
+    "status": "open"
+  }
+]

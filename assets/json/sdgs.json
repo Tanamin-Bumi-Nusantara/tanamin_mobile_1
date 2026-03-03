@@ -1,0 +1,56 @@
+[
+  {
+    "id": 4,
+    "slug": "quality-education",
+    "name": "Quality Education",
+    "image": "/assets/images/default/sdg/sdg-4"
+  },
+  {
+    "id": 7,
+    "slug": "affordable-and-clean-energy",
+    "name": "Affordable And Clean Energy",
+    "image": "/assets/images/default/sdg/sdg-7"
+  },
+  {
+    "id": 8,
+    "slug": "decent-work-and-economic-growth",
+    "name": "Decent Work And Economic Growth",
+    "image": "/assets/images/default/sdg/sdg-8"
+  },
+  {
+    "id": 11,
+    "slug": "sustainable-cities-and-communities",
+    "name": "Sustainable Cities And Communities",
+    "image": "/assets/images/default/sdg/sdg-11"
+  },
+  {
+    "id": 12,
+    "slug": "responsible-consumption-and-production",
+    "name": "Responsible Consumption And Production",
+    "image": "/assets/images/default/sdg/sdg-12"
+  },
+  {
+    "id": 13,
+    "slug": "climate-action",
+    "name": "Climate Action",
+    "image": "/assets/images/default/sdg/sdg-13"
+  },
+  {
+    "id": 14,
+    "slug": "life-below-water",
+    "name": "Life Below Water",
+    "image": "/assets/images/default/sdg/sdg-14"
+  },
+  {
+    "id": 15,
+    "slug": "life-on-land",
+    "name": "Life On Land",
+    "image": "/assets/images/default/sdg/sdg-15"
+  },
+  {
+    "id": 17,
+    "slug": "partnerships-for-the-goals",
+    "name": "Partnerships For The Goals",
+    "image": "/assets/images/default/sdg/sdg-17"
+  }
+]

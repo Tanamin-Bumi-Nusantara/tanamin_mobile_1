@@ -1,0 +1,26 @@
+[
+  {
+    "value": "6 Ton",
+    "label": "Emisi Karbon Terserap per Tahun",
+    "background": "/assets/images/default/background/co2.png",
+    "icon": "/assets/images/default/icon/co2.png"
+  },
+  {
+    "value": "3 Ton",
+    "label": "Oksigen yang Dihasilkan per Tahun",
+    "background": "/assets/images/default/background/o2.png",
+    "icon": "/assets/images/default/icon/o2.png"
+  },
+  {
+    "value": "300",
+    "label": "Pohon yang Ditanam",
+    "background": "/assets/images/default/background/tree.png",
+    "icon": "/assets/images/default/icon/tree.png"
+  },
+  {
+    "value": "0,54 ha",
+    "label": "Lahan Dikelola",
+    "background": "/assets/images/default/background/luas.png",
+    "icon": "/assets/images/default/icon/luas.png"
+  }
+]
