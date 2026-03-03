@@ -7,7 +7,7 @@ class ArticleRemoteDataSourceImpl implements ArticleRemoteDataSource {
     try {
       return await function();
     } catch (e) {
-      throw e;
+      rethrow;
     }
   }
 }

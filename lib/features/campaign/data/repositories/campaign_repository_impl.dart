@@ -7,7 +7,7 @@ class CampaignRepositoryImpl implements CampaignRepository {
     try {
       return await function();
     } catch (e) {
-      throw e;
+      rethrow;
     }
   }
 }

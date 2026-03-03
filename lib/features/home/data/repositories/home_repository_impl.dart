@@ -7,7 +7,7 @@ class HomeRepositoryImpl implements HomeRepository {
     try {
       return await function();
     } catch (e) {
-      throw e;
+      rethrow;
     }
   }
 }

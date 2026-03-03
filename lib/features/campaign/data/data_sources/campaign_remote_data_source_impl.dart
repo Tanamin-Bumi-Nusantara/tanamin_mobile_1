@@ -7,7 +7,7 @@ class CampaignRemoteDataSourceImpl implements CampaignRemoteDataSource {
     try {
       return await function();
     } catch (e) {
-      throw e;
+      rethrow;
     }
   }
 }
