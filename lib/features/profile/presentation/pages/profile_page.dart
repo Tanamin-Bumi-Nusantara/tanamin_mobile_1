@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+import '../blocs/profile_event.dart';
+import '../blocs/profile_bloc.dart';
 
 class ProfilePage extends StatefulWidget {
   const ProfilePage({super.key});
@@ -20,6 +23,7 @@ class _ProfilePageState extends State<ProfilePage> {
       DeviceOrientation.portraitUp,
       DeviceOrientation.portraitDown,
     ]);
+    context.read<ProfileBloc>().add(FetchProfileEvent());
   }
 
   @override
