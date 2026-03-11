@@ -2,6 +2,7 @@ import 'package:dartz/dartz.dart';
 import '../../../../core/error/exceptions.dart';
 import '../../../../core/error/failures.dart';
 import '../../domain/entities/campaign.dart';
+import '../../domain/entities/campaign_detail.dart';
 import '../../domain/repositories/campaign_repository.dart';
 import '../data_sources/campaign_remote_data_source.dart';
 
@@ -26,6 +27,18 @@ class CampaignRepositoryImpl implements CampaignRepository {
     } catch (e) {
       // Tangkap error lain yang tidak terduga (misal JSON formatnya salah)
       return Left(ServerFailure('Terjadi kesalahan: ${e.toString()}'));
+    }
+  }
+
+  @override
+  Future<Either<Failure, CampaignDetail>> getCampaignDetail(int id) async {
+    try {
+      final remoteDetail = await remoteDataSource.getCampaignDetail(id);
+      return Right(remoteDetail);
+    } on ServerException {
+      return const Left(ServerFailure('Gagal mengambil detail kampanye.'));
+    } catch (e) {
+      return Left(ServerFailure(e.toString()));
     }
   }
 }
